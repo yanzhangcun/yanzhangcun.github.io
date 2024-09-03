@@ -60,6 +60,7 @@ tags:
 * [duoble Merchine Learning2](https://docs.doubleml.org/stable/guide/basics.html)
 * [因果发现-独立性测试](https://zhuanlan.zhihu.com/p/127831016)
 * [因果发现-基本方法](https://www.bilibili.com/read/cv16008535/)
+* [双机器学习](https://blog.csdn.net/taozibaby/article/details/140591792?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-4-140591792-blog-134581671.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-4-140591792-blog-134581671.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=9)
 
 
 ### Dynamic Bayesian Network
