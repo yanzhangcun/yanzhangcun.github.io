@@ -59,6 +59,7 @@ tags:
 * [连续处理的因果推理](https://towardsdatascience.com/causal-inference-with-continuous-treatments-5ff691869a65)
 * [duoble Merchine Learning2](https://docs.doubleml.org/stable/guide/basics.html)
 * [因果发现-独立性测试](https://zhuanlan.zhihu.com/p/127831016)
+* [因果发现-基本方法](https://www.bilibili.com/read/cv16008535/)
 
 
 ### Dynamic Bayesian Network
