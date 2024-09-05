@@ -19,4 +19,4 @@ tags:
 
 
 ##### video example
-1.[数字孪生路口的案例](https://apply.interfolio.com/150499)
+1. [数字孪生路口的案例](https://apply.interfolio.com/150499)
