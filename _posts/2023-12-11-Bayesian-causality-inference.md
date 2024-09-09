@@ -129,6 +129,10 @@ tags:
 *[Bayesian Velocity Models for Horse Race Simulation](https://www.kaggle.com/code/bkumagai/bayesian-velocity-models-for-horse-race-simulation/notebook)
 *[ A Modern and Comprehensive Probabilistic Programming Framework in Python](https://github.com/pymc-devs/pymc)
 
+
+### 
+*[markov-decision-process](https://leovan.me/cn/2020/05/markov-decision-process/#google_vignette)
+
 ## Data science
   [🔥📊💲 Store Sales EDA, Prediction with TS 🔥🎯](https://www.kaggle.com/code/kalilurrahman/store-sales-eda-prediction-with-ts)
 
