@@ -36,3 +36,4 @@ Although I have been studying mathematics for twenty years, I have never really 
 ### Course in University of Washington
 * [Dynamic Mode](http://dmdbook.com/)
 * [3blue1brown](https://www.youtube.com/@3blue1brown)
+* [数学分析——中科院张平](https://www.bilibili.com/video/BV14d4y1177b/?vd_source=eadde1477a58ba202d5070a8f223d4d4)
