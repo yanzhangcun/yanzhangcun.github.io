@@ -60,10 +60,9 @@ tags:
 <li>Data deniose algorithms <a href="https://www.kaggle.com/code/residentmario/denoising-algorithms/notebook"> Denoising algorithms</a></li>
 <li>Data vision method <a href="https://matplotlib.org/2.0.2/gallery.html"> Matplotlib </a></li>
 <li>Anomaly detection:<a href="https://neptune.ai/blog/anomaly-detection-in-time-series"> Anomaly detection</a></li>
-  
-<h3 id="toc_1">Machine Learning Theory and Implementation</h3>
 
 
+### Machine Learning Theory and Implementation
 
 #### Causality Discovery and Calusal Inference 
 
