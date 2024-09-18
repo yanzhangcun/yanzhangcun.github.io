@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How to improve your English
+title:      How to improve your English and writing
 subtitle:   some way for imporving english
 date:       2023-09-12
 author:     zhangcun yan
@@ -47,8 +47,6 @@ tags:
 5.**English clud**
     *[EnglishClub](https://www.englishclub.com/)
 
-
-
 #### Writing Skill
 1. **Tools**
    * [Grammer check software:editor](https://instatext.io/editor/?v2=1&u=695897452280&t=c) 
@@ -66,13 +64,15 @@ tags:
 4. **Practices**
    * [Topic of Everyday Heroes](https://yanzhangcun.github.io/files/English/Writing_about_everyday_heroes_Zhangcun-Yan.pdf)
    * [Topic of Sustainability](https://yanzhangcun.github.io/files/English/Sustainability_writing.pdf)
-
-
+   * 
 5.**Dictionary**
    * [Longman](https://www.ldoceonline.com/)
    * [merriam-webster](https://www.merriam-webster.com/)
    * [cambridge](https://www.cambridge.org/ca/cambridgeenglish/catalog/english-academic-purposes/clear-speech-4th-edition/clear-speech-pronunciation-and-listening-comprehension-north-american-english-4th-edition-students-book-integrated-digital-learning?isbn=9781108659338&&format=DO)
 
+6.**Academic writing**
+   * [开题报告](https://blog.sciencenet.cn/blog-711431-757398.html)
+   * []()
 
 #### Reading Skill
 1. **Vocabulary**
