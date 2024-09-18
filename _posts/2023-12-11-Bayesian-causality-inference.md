@@ -73,7 +73,12 @@ tags:
 * [Causal discovery with TIGRAMITE](https://notebook.community/jakobrunge/tigramite/tutorials/tigramite_tutorial_basics)
 * [DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python](https://www.jmlr.org/papers/v23/21-0862.html)
 * [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
-* []()
+* [因果推断笔记](https://blog.csdn.net/sinat_26917383/article/details/120784044)
+* [Causal inference when treatments are continuous variables](https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables)
+* [Machine Learning-based Causal Inference Tutorial](https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/)
+* [Causal Discovery with Multivariate Time Series Data](https://medium.com/causality-in-data-science/causal-discovery-with-multivariate-time-series-data-a3f7ffc16747)
+* [bnlearn: Practical Bayesian Networks in R](https://www.bnlearn.com/examples/useR19-tutorial/)
+* [Constraint-based causal discovery methods](https://causal-learn.readthedocs.io/en/latest/search_methods_index/Constraint-based%20causal%20discovery%20methods/index.html)
 
 
 
