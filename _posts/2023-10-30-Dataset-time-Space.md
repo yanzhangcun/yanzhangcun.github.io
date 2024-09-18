@@ -60,6 +60,7 @@ tags:
 *[Regression Models with Ordered Categorical Outcomes](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-ordinal-regression.html)
 *[金融时间序列分析讲义](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html)
 *[Geometric and Topological Methods in Data Science](https://icerm.brown.edu/tripods/tri-21-gtmds/#workshopoverview)
+*[Boruta特征选择算法助力精准决策](https://zhuanlan.zhihu.com/p/658320667)
     
 **Data Visualizing**
 *[Geographic Data Science with R: Visualizing and Analyzing Environmental Change](https://bookdown.org/mcwimberly/gdswr-book/)
@@ -86,7 +87,7 @@ tags:
 *[Savitzky-Golay 滤波器详解](https://blog.csdn.net/shenziheng1/article/details/53391422)
 *[kalman-filter-with-matlab-code](https://studentdavestutorials.weebly.com/kalman-filter-with-matlab-code.html)
 *[Geometric and Topological Methods in Data Science](https://icerm.brown.edu/tripods/tri-21-gtmds/#workshopoverview)
-*[]()
+*[Learn by example: Active Inference in the brain -3](https://www.kaggle.com/code/charel/learn-by-example-active-inference-in-the-brain-3)
 *[]()
 *[]()
 *[]()
