@@ -13,12 +13,12 @@ tags:
 #### Data sciences course
 
 **Basics classes**
-    * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=ST11MT91624B)
-    * [Spatial Data Science](https://rspatial.org/raster/analysis/6-local_regression.html)
+* [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=ST11MT91624B)
+* [Spatial Data Science](https://rspatial.org/raster/analysis/6-local_regression.html)
 
 **Some methods**
-    * [Geographically Weighted Regression](https://crd230.github.io/gwr.html)
-    * [Geographically Weighted Regression](https://rpubs.com/chrisbrunsdon/101305)
+* [Geographically Weighted Regression](https://crd230.github.io/gwr.html)
+* [Geographically Weighted Regression](https://rpubs.com/chrisbrunsdon/101305)
 *[地理加权回归工作原理](https://pro.arcgis.com/zh-cn/pro-app/latest/tool-reference/spatial-statistics/how-geographicallyweightedregression-works.htm)
 *[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/download/)
 *[heteroskedastic-ordered-probit-models](https://www.tstat.it/specifiche/heteroskedastic-ordered-probit-models/)
