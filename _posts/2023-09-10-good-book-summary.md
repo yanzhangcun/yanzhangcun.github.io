@@ -43,10 +43,11 @@ tags:
 <li><a href="http://www.fields.utoronto.ca/activities/20-21/dynamical">Second Symposium on Machine Learning and Dynamical Systems</a></li>
 
 
-
 #### Bayesian Theory 
 <li><a href="https://yxnchen.github.io/research/%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD%E7%AC%94%E8%AE%B0/#%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD"</a>贝叶斯变分推断<li>    
-### Gaussian Processes for Machine Learning
+
+
+#### Gaussian Processes for Machine Learning
 <li> Gaussian Processes for Machine Learning<a href="https://yanzhangcun.github.io/blob/master/files/ebooks/Gaussian%20Processes%20for%20Machine%20Learnin.pdf"> Ebook</a> </li>
 <li> Gaussian processes in matlab<a href="https://gaussianprocess.org/gpml/code/matlab/doc/">,GPML Matlab Code version</a></li>
 
@@ -65,7 +66,6 @@ tags:
 ### Machine Learning Theory and Implementation
 
 #### Causality Discovery and Calusal Inference 
-
 <li>Theory:<a href="https://drive.google.com/file/d/1aa334ZbTJ5uO_daMAPFW9MVto3yZaEot/view?usp=drive_link">Causal inference-whta if</a>，James M. Robin）</li>
 <li>Theory:<a href="https://drive.google.com/file/d/1LdXuLKHh8lNffSFGkoURRHMy0pVjjyqU/view?usp=drive_link">Causality inference introduce slide</a></li>
 <li>Theory:<a href="https://drive.google.com/file/d/18ZXk1VVblTBpEWR-i6nJ7sZZ39dsVSnp/view?usp=drive_link">Causal Inference in Statistics：A Primer</a>
