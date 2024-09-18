@@ -22,3 +22,9 @@ tags:
 3.[AcademicJobsOnline.org](https://academicjobsonline.org/)
 
 
+###### Some other resources
+1.[Library Genesis](https://libgen.is/search.php?req=Introduction+to+Linear+Algebra&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+2.[codeing issue](https://stackexchange.com/)
+3.[]()
+
+
