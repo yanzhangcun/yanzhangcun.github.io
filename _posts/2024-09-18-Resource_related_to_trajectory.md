@@ -12,9 +12,8 @@ tags:
 
 #### Linear Algebra
 
-
 #### 轨迹数据提取
-<li>win10+Darknet Yolo V3+训练自己的数据集全步骤<a href="https://blog.csdn.net/qydsb/article/details/110001282"></a> </li>
+<li><a href="https://blog.csdn.net/qydsb/article/details/110001282">win10+Darknet Yolo V3+训练自己的数据集全步骤</a> </li>
 <li>行人车辆目标检测追踪及目标移动路<a href="https://www.bilibili.com/video/BV1E441157yS/?spm_id_from=trigger_reload"></a> </li>
 <li>PaddleDetection做了一个“交通违章逆行车辆”自动检测系统<a href="https://mp.weixin.qq.com/s/q8akA8SV6OQN1iKYnYNimw"></a> </li>
 <li>TrafficSurvey<a href="https://datafromsky.com/trafficsurvey/"></a> </li>
