@@ -46,7 +46,6 @@ tags:
 #### Bayesian Theory 
 <li><a href="https://yxnchen.github.io/research/%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD%E7%AC%94%E8%AE%B0/#%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD"</a>贝叶斯变分推断<li>    
 
-
 #### Gaussian Processes for Machine Learning
 <li> Gaussian Processes for Machine Learning<a href="https://yanzhangcun.github.io/blob/master/files/ebooks/Gaussian%20Processes%20for%20Machine%20Learnin.pdf"> Ebook</a> </li>
 <li> Gaussian processes in matlab<a href="https://gaussianprocess.org/gpml/code/matlab/doc/">,GPML Matlab Code version</a></li>
