@@ -79,9 +79,18 @@ tags:
 * [Causal Discovery with Multivariate Time Series Data](https://medium.com/causality-in-data-science/causal-discovery-with-multivariate-time-series-data-a3f7ffc16747)
 * [bnlearn: Practical Bayesian Networks in R](https://www.bnlearn.com/examples/useR19-tutorial/)
 * [Constraint-based causal discovery methods](https://causal-learn.readthedocs.io/en/latest/search_methods_index/Constraint-based%20causal%20discovery%20methods/index.html)
+* [粗化精确匹配（CEM）的基本思想](https://zhuanlan.zhihu.com/p/500065386)
+* [Causal Effects via Regression](https://towardsdatascience.com/causal-effects-via-regression-28cb58a2fffc#:~:text=To%20use%20regression%20for%20estimating,models%20to%20quantify%20causal%20effects.)
+* [Double Machine Learning](https://blog.csdn.net/qq_26430933/article/details/122525210)
+* [Causal inference in DUKE](https://www2.stat.duke.edu/~fl35/teaching/640/)
+* [End-to-end balancing for causal continuous treatment-effect estimation](https://www.amazon.science/publications/end-to-end-balancing-for-causal-continuous-treatment-effect-estimation)
+* [CAUSAL IN STATA](https://www.stata.com/manuals/causal.pdf)
+* [Double Machine Learning](https://madina-k.github.io/dse_mk2021/tutorial_dml.html)
 
 
-
+#### no marks
+* [因果推断：原理与方法](https://swarma.org/?p=30349)
+* [Getting Started with Causal Inference](https://towardsdatascience.com/getting-started-with-causal-inference-5cb61b707740)
 
 ### Dynamic Bayesian Network
 * [Dynamic Bayesian Network PPT](https://slideplayer.com/slide/13536477/)
@@ -125,6 +134,7 @@ tags:
 * [Modeling data distributions](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data)
 * [Density Estimation for a Gaussian mixture](https://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_alpha.html#sphx-glr-auto-examples-neural-networks-plot-mlp-alpha-py)
 * [Feature discretization](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization_classification.html#sphx-glr-auto-examples-preprocessing-plot-discretization-classification-py)
+* [Bivariate Normal Distribution](https://mathworld.wolfram.com/BivariateNormalDistribution.html)
 
 ### Gaussian process Dynamical Models
 * [高斯过程动态模型简析](https://blog.csdn.net/Pericles_HAT/article/details/127387171?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171740728416800186545093%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=171740728416800186545093&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-5-127387171-null-null.142^v100^pc_search_result_base7&utm_term=%E6%B7%B7%E5%90%88%E9%AB%98%E6%96%AF%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E9%A2%84%E6%B5%8B&spm=1018.2226.3001.4187)
@@ -141,6 +151,8 @@ tags:
 *[Bayesian Velocity Models for Horse Race Simulation](https://www.kaggle.com/code/bkumagai/bayesian-velocity-models-for-horse-race-simulation/notebook)
 *[ A Modern and Comprehensive Probabilistic Programming Framework in Python](https://github.com/pymc-devs/pymc)
 
+## 极值分析
+*[Extreme value analysis](https://mc-stan.org/users/documentation/case-studies/gpareto_functions.html#:~:text=Extreme%20value%20theory%20says%20that,far%20enough%20in%20the%20tail.)
 
 ### 
 *[markov-decision-process](https://leovan.me/cn/2020/05/markov-decision-process/#google_vignette)
