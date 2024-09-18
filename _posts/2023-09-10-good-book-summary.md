@@ -33,6 +33,14 @@ tags:
 <li>Gaussian Processes for Machine Learning<a href="https://gaussianprocess.org/gpml/chapters/RW.pdf">Gaussian Processes for Machine Learning book</a>,<a href="https://gaussianprocess.org/#code">Gaussianprocess codes</a>,<a href="http://www.infinitecuriosity.org/vizgp/">example</a> ,<a href="https://gaussianprocess.org/gpml/code/matlab/doc/">Introduction </a></li>
 <li>Deep learning applaction <a href="https://zh.d2l.ai/index.html">Dive into Deep Learning</a></li>
 <li>RL — Inverse Reinforcement Learning<a href="https://jonathan-hui.medium.com/rl-inverse-reinforcement-learning-56c739acfb5a">Inverse Reinforcement Learning </a></li>
+<li>>Hidden Markov Model<a href="https://stathwang.github.io/part-of-speech-tagging-with-trigram-hidden-markov-models-and-the-viterbi-algorithm.html#part-of-speech-tagging-with-trigram-hidden-markov-models-and-the-viterbi-algorithm">Hidden Markov Mode</a></li>
+<li><a href="https://www.di.ens.fr/~fbach/">Learning Theory from First Principles</a></li>
+<li><a href="https://brsoff.github.io/tutorials/beginner/dcgan_faces_tutorial.html">DCGAN Tutorial</a></li>
+<li><a href="https://probml.github.io/pml-book/book2.html">Probabilistic Machine Learning: Advanced Topics</a></li>
+<li><a  href="https://yuxinchen2020.github.io/slides/EntropyNPG_slides.pdf">Taming nonconvexity in policy optimization</a></li>
+<li><a href="https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/videos/">A Vision of Linear Algebra</a></li>
+
+
 
 #### Bayesian Theory 
 <li><a href="https://yxnchen.github.io/research/%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD%E7%AC%94%E8%AE%B0/#%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD"</a>贝叶斯变分推断<li>    
