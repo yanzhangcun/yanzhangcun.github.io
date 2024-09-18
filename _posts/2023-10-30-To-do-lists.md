@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      To do list
+title:      Some other formation
 subtitle:   吾日三省吾身
 date:       2023-10-08
 author:     Zhangcun Yan
@@ -10,25 +10,22 @@ tags:
     - plan of day
 ---
 
-##### Time table 
+##### 
 1. **From other's panel**
 * [基金课题的申请路径](https://junweiliang.me/awesome.html)
 * [同济大学投稿指南](https://yanzhangcun.github.io/files/ebooks\journal_list_tongji.pdf)
 
-###### Postdoctor information
+2. **Postdoctor information**
 * [华盛顿大学出行实验室](https://apply.interfolio.com/150499)
 * [indeed](https://ca.indeed.com/jobs?q=postdoctoral&l=quebec+province&from=searchOnDesktopSerp&vjk=1944076df37f42b7)
 * [AcademicJobsOnline.org](https://academicjobsonline.org/)
 
-
-###### Some other resources
+3. **Some other resources**
 * [Library Genesis](https://libgen.is/search.php?req=Introduction+to+Linear+Algebra&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [codeing issue](https://stackexchange.com/)
 * [霞子](https://keyanxiazi.bepass.cn/)
 
-
-
-###### some to read
+4. **Future read**
 * [Optimization for Machine Learning](https://opt-ml.org/)
 * [Good picture](https://unsplash.com/@gndclouds?utm_source=medium&utm_medium=referral)
 * [人、机、环境之间的非时空边界](https://blog.sciencenet.cn/blog-40841-1404198.html)
