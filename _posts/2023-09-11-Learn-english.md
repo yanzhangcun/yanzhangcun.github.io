@@ -13,21 +13,14 @@ tags:
 #### Listening Skill
 
 1. **Listening Material**:
-
    * [Story In English](https://www.youtube.com/@WooEnglish)
-
    * [BBC](https://www.bbc.com/)
-
    * [CBC Channel](https://www.bbc.com/)
-
    * [TED-The clues to a great story](https://www.youtube.com/watch?v=KxDwieKpawg)
-
    * [Music of Song](https://www.youtube.com/watch?v=swloMVFALXw)
-
 
 #### Speaking Skill
 1. **Clear speak**
-
     * [clear speak video](https://www.youtube.com/watch?v=JKIu2R-O2rQ).
     * [clear speak book](http://biblioteca.univalle.edu.ni/files/original/df429f13276f7201f0e30c2746366d030dcd266a.pdf).
     * [clear speech support resources](https://www.cambridge.org/ca/cambridgeenglish/catalog/english-academic-purposes/clear-speech-4th-edition/resources).
@@ -68,11 +61,19 @@ tags:
    * [Essential-Grammar-in-Use-with-Answers-Raymond-Murphy](https://drive.google.com/file/d/1oIec3ajHQN2G-1C-sAkKidL5XrYwiUDL/view?usp=drive_link)
 4. **Practices**
    * [Topic of Everyday Heroes](https://yanzhangcun.github.io/files/English/Writing_about_everyday_heroes_Zhangcun-Yan.pdf)
-   * [Topic of Sustainability](https://yanzhangcun.github.io/files/English/Sustainability_writing.pdf) 
+   * [Topic of Sustainability](https://yanzhangcun.github.io/files/English/Sustainability_writing.pdf)
+
+
+5.**Dictionary**
+   * [Longman](https://www.ldoceonline.com/)
+   * [merriam-webster](https://www.merriam-webster.com/)
+   * [cambridge](https://www.cambridge.org/ca/cambridgeenglish/catalog/english-academic-purposes/clear-speech-4th-edition/clear-speech-pronunciation-and-listening-comprehension-north-american-english-4th-edition-students-book-integrated-digital-learning?isbn=9781108659338&&format=DO)
+
 
 #### Reading Skill
 1. **Vocabulary**
    * [New-word-list:](https://yanzhangcun.github.io/files/English/New_words.pdf)
+   * []
 2. **Good Book**
    * []()
 3. **Practices**
