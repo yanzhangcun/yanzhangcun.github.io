@@ -45,40 +45,39 @@ tags:
     * [How to count syllables?](https://yanzhangcun.github.io/files/English/English-class-syllables.pdf)
 
 5.**English clud**
-    *[EnglishClub](https://www.englishclub.com/)
+    * [EnglishClub](https://www.englishclub.com/)
 
 #### Writing Skill
 1. **Tools**
-   * [Grammer check software:editor](https://instatext.io/editor/?v2=1&u=695897452280&t=c) 
-   * [Grammer check software:Deep translate](https://www.deepl.com/translator)
-   * [Grammer](https://www.englishgrammar101.com/).
+    * [Grammer check software:editor](https://instatext.io/editor/?v2=1&u=695897452280&t=c) 
+    * [Grammer check software:Deep translate](https://www.deepl.com/translator)
+    * [Grammer](https://www.englishgrammar101.com/).
 
 2. **Teaching**
-   * [Scientific Writing Made Easy](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258)
-   * [How to write a science paper](https://www.youtube.com/watch?v=Vky9PDKx5KU) 
+    * [Scientific Writing Made Easy](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1258)
+    * [How to write a science paper](https://www.youtube.com/watch?v=Vky9PDKx5KU) 
 
 3. **Grammar book**
-   * [Advanced Grammar in Use with Answers](https://drive.google.com/file/d/13Hjl34S7GMGVWc0tUDYt5_ip7xsWENuR/view?usp=drive_link)
-   * [English Grammar in Use by Raymond Murphy](https://drive.google.com/file/d/1-A-_I7Tj6P1rC8kPlAYyiD0VXqndhJtu/view?usp=drive_link)
-   * [Essential-Grammar-in-Use-with-Answers-Raymond-Murphy](https://drive.google.com/file/d/1oIec3ajHQN2G-1C-sAkKidL5XrYwiUDL/view?usp=drive_link)
+    * [Advanced Grammar in Use with Answers](https://drive.google.com/file/d/13Hjl34S7GMGVWc0tUDYt5_ip7xsWENuR/view?usp=drive_link)
+    * [English Grammar in Use by Raymond Murphy](https://drive.google.com/file/d/1-A-_I7Tj6P1rC8kPlAYyiD0VXqndhJtu/view?usp=drive_link)
+    * [Essential-Grammar-in-Use-with-Answers-Raymond-Murphy](https://drive.google.com/file/d/1oIec3ajHQN2G-1C-sAkKidL5XrYwiUDL/view?usp=drive_link)
 4. **Practices**
-   * [Topic of Everyday Heroes](https://yanzhangcun.github.io/files/English/Writing_about_everyday_heroes_Zhangcun-Yan.pdf)
-   * [Topic of Sustainability](https://yanzhangcun.github.io/files/English/Sustainability_writing.pdf)
-   * 
+    * [Topic of Everyday Heroes](https://yanzhangcun.github.io/files/English/Writing_about_everyday_heroes_Zhangcun-Yan.pdf)
+    * [Topic of Sustainability](https://yanzhangcun.github.io/files/English/Sustainability_writing.pdf)
+    
 5.**Dictionary**
-   * [Longman](https://www.ldoceonline.com/)
-   * [merriam-webster](https://www.merriam-webster.com/)
-   * [cambridge](https://www.cambridge.org/ca/cambridgeenglish/catalog/english-academic-purposes/clear-speech-4th-edition/clear-speech-pronunciation-and-listening-comprehension-north-american-english-4th-edition-students-book-integrated-digital-learning?isbn=9781108659338&&format=DO)
+    * [Longman](https://www.ldoceonline.com/)
+    * [merriam-webster](https://www.merriam-webster.com/)
+    * [cambridge](https://www.cambridge.org/ca/cambridgeenglish/catalog/english-academic-purposes/clear-speech-4th-edition/clear-speech-pronunciation-and-listening-comprehension-north-american-english-4th-edition-students-book-integrated-digital-learning?isbn=9781108659338&&format=DO)
 
 6.**Academic writing**
-   * [开题报告](https://blog.sciencenet.cn/blog-711431-757398.html)
-   * []()
+    * [开题报告](https://blog.sciencenet.cn/blog-711431-757398.html)
 
 #### Reading Skill
 1. **Vocabulary**
-   * [New-word-list:](https://yanzhangcun.github.io/files/English/New_words.pdf)
-   * []
+    * [New-word-list:](https://yanzhangcun.github.io/files/English/New_words.pdf)
+    * []
 2. **Good Book**
-   * []()
+    * []()
 3. **Practices**
-   * []() 
+    * []() 
