@@ -15,7 +15,6 @@ tags:
 *[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=ST11MT91624B)
 *[Spatial Data Science](https://rspatial.org/raster/analysis/6-local_regression.html)
 
-
 **Some methods**
 *[Geographically Weighted Regression](https://crd230.github.io/gwr.html)
 *[Geographically Weighted Regression](https://rpubs.com/chrisbrunsdon/101305)
