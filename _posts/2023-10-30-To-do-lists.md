@@ -20,3 +20,7 @@ tags:
 
 ###### Postdoctor information
 1.[华盛顿大学出行实验室](https://apply.interfolio.com/150499)
+2.[indeed](https://ca.indeed.com/jobs?q=postdoctoral&l=quebec+province&from=searchOnDesktopSerp&vjk=1944076df37f42b7)
+3.[AcademicJobsOnline.org](https://academicjobsonline.org/)
+
+
