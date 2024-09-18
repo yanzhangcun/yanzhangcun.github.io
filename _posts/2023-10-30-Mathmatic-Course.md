@@ -23,6 +23,7 @@ Although I have been studying mathematics for twenty years, I have never really 
 * [Terence Tao,UCLA](https://www.math.ucla.edu/~tao/)
 * [陶哲轩实分析](https://yanzhangcun.github.io/files/ebooks/TAOZHEXUAN.pdf)
 * [线性代数应该这样学](https://icourse.club/uploads/files/f3e9c960b93d8b8fbfdc1bda18a8d55088cbc8cb.pdf)
+* [Linear Algebra for Data Science](https://kyunghyuncho.me/linear-algebra-for-data-science/)
 
 ## Merchine Resource
 
