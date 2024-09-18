@@ -30,9 +30,9 @@ tags:
     [多重共线性](https://www.cnblogs.com/hxsyl/p/5590589.html)
     [Generalized Linear Models](https://towardsdatascience.com/generalized-linear-models-8738ae0fb97d)
     [时间序列分析与量化交易](https://blog.csdn.net/the_time_runner/article/details/90044738)
-    [广义线性模型](http://www.360doc.com/content/20/0513/15/52334415_912090926.shtml,
-                  http://www.360doc.com/content/18/0416/12/33459258_746066459.shtml,
-                  https://www.jianshu.com/p/9c61629a1e7d)
+    [广义线性模型1](http://www.360doc.com/content/20/0513/15/52334415_912090926.shtml)
+    [广义线性模型2](http://www.360doc.com/content/18/0416/12/33459258_746066459.shtml)
+    [广义线性模型3](https://www.jianshu.com/p/9c61629a1e7d)
     [广义加性混合模型（GAMM）处理空间面板数据](https://zhuanlan.zhihu.com/p/37607206)
     [ GAMs generalize ](https://m-clark.github.io/generalized-additive-models/case_for_gam.html)
     [广义加性混合模型in R](https://www.cnblogs.com/leonbond/p/3641671.html)
