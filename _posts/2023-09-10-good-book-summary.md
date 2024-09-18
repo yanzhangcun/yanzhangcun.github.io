@@ -40,6 +40,7 @@ tags:
 <li><a  href="https://yuxinchen2020.github.io/slides/EntropyNPG_slides.pdf">Taming nonconvexity in policy optimization</a></li>
 <li><a href="https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/videos/">A Vision of Linear Algebra</a></li>
 <li>Understanding LSTM Networks<a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/"></a></li>
+<li><a href="http://www.fields.utoronto.ca/activities/20-21/dynamical">Second Symposium on Machine Learning and Dynamical Systems</a></li>
 
 
 
