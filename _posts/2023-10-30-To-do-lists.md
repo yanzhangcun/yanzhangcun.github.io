@@ -28,6 +28,12 @@ tags:
 4. **Future read**
 * [Optimization for Machine Learning](https://opt-ml.org/)
 * [Good picture](https://unsplash.com/@gndclouds?utm_source=medium&utm_medium=referral)
-* [人、机、环境之间的非时空边界](https://blog.sciencenet.cn/blog-40841-1404198.html)
+* [人、机、环境之间的非时空边界](https://blog.sciencenet.cn/blog-40841-1404198.html
+
+5.**Useless study**
+* [资治通鉴](https://www.youtube.com/watch?v=Dfoj45Mw3Ro&list=PLak0hfVBy5DJHa4-iUwbh9bVt-3knKomw)
+* [Nature Cities](https://www.nature.com/natcities/research-articles)
+
+
 
 
