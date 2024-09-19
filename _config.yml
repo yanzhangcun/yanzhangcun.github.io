@@ -94,13 +94,7 @@ Eeveryday: [
     },{
         title: "To do list",
         href: "https://tweek.so/fr"
-    }
-]
-
-
-# 友情链接，请尽量不要删除
-friends: [
-    {
+    },{
         title: "Nicolas",
         href: "http://n.saunier.free.fr/saunier/"
     },{
