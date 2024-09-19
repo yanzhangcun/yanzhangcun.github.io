@@ -62,7 +62,11 @@ tags:
 <li>Anomaly detection:<a href="https://neptune.ai/blog/anomaly-detection-in-time-series"> Anomaly detection</a></li>
 
 
-### Machine Learning Theory and Implementation
+####  Machine Learning Theory and Implementation
+<li>Yotube course<a href="https://www.cs.huji.ac.il/~shais/IML2014.html">Understanding machine learning: from theory to algorithms</a></li>
+
+
+
 
 #### Causality Discovery and Calusal Inference 
 <li>Theory:<a href="https://drive.google.com/file/d/1aa334ZbTJ5uO_daMAPFW9MVto3yZaEot/view?usp=drive_link">Causal inference-whta if</a>，James M. Robin）</li>
