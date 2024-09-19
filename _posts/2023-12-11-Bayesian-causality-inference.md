@@ -86,6 +86,7 @@ tags:
 * [End-to-end balancing for causal continuous treatment-effect estimation](https://www.amazon.science/publications/end-to-end-balancing-for-causal-continuous-treatment-effect-estimation)
 * [CAUSAL IN STATA](https://www.stata.com/manuals/causal.pdf)
 * [Double Machine Learning](https://madina-k.github.io/dse_mk2021/tutorial_dml.html)
+* [Causal Inference: A Statistical Learning Approach](https://web.stanford.edu/~swager/causal_inf_book.pdf)
 
 
 #### no marks
