@@ -81,15 +81,36 @@ service-worker: true
 
 
 # 友情链接，请尽量不要删除
-friends: [
+Eeveryday: [
     {
-        title: "Globien Interlingu",
-        href: "https://yanzhangcun.github.io"
+        title: "Overleaf",
+        href: "https://www.overleaf.com/project"
     },{
-        title: "Globien Community",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
+        title: "Tongji mail",
+        href: "https://mail.tongji.edu.cn/coremail/XT5/index.jsp?sid=EAdSTkbbrFpTYuervVpbDbNxTjShElGj#mail.welcome"
+    },{
+        title: "Google mail",
+        href: "https://mail.google.com/mail/u/0/#inbox"
     },{
         title: "To do list",
         href: "https://tweek.so/fr"
+    }
+]
+
+
+# 友情链接，请尽量不要删除
+friends: [
+    {
+        title: "Nicolas",
+        href: "http://n.saunier.free.fr/saunier/"
+    },{
+        title: "Xinyu Chen",
+        href: "https://xinychen.github.io/index.html"
+    },{
+        title: "Google mail",
+        href: "https://mail.google.com/mail/u/0/#inbox"
+    },{
+        title: "Wang Luo",
+        href: "https://wangluoangl3.github.io/"
     }
 ]
