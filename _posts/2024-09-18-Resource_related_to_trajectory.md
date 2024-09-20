@@ -10,8 +10,6 @@ tags:
     - 资料总结
 ---
 
-#### Linear Algebra
-
 #### 轨迹数据提取
 <li><a href="https://blog.csdn.net/qydsb/article/details/110001282">win10+Darknet Yolo V3+训练自己的数据集全步骤</a> </li>
 <li><a href="https://www.bilibili.com/video/BV1E441157yS/?spm_id_from=trigger_reload">行人车辆目标检测追踪及目标移动路</a> </li>
