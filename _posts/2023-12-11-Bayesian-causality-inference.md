@@ -89,6 +89,13 @@ tags:
 * [Causal Inference: A Statistical Learning Approach](https://web.stanford.edu/~swager/causal_inf_book.pdf)
 
 
+
+#### Good slide about causal inference
+* [CAUSAL INFERENCE AND CAUSAL DISCOVERY FOR STUDYING TELECONNECTION PATHWAYS](https://www.ecmwf.int/sites/default/files/medialibrary/2020-10/27_October.pdf)
+* 
+
+
+
 #### no marks
 * [因果推断：原理与方法](https://swarma.org/?p=30349)
 * [Getting Started with Causal Inference](https://towardsdatascience.com/getting-started-with-causal-inference-5cb61b707740)
