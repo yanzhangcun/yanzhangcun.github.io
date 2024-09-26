@@ -25,6 +25,7 @@ tags:
 * [indeed](https://ca.indeed.com/jobs?q=postdoctoral&l=quebec+province&from=searchOnDesktopSerp&vjk=1944076df37f42b7)
 * [AcademicJobsOnline.org](https://academicjobsonline.org/)
 * [Mitacs](https://www.mitacs.ca/our-programs/elevate-students-postdocs/)
+* [瑞典查尔姆斯大学](https://www.linkedin.com/posts/sonia-yeh-282aa522_vacancies-activity-7244655995765870592-B5XN/?utm_source=share&utm_medium=member_android)
 
 3. **Some other resources**
 * [Library Genesis](https://libgen.is/search.php?req=Introduction+to+Linear+Algebra&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
