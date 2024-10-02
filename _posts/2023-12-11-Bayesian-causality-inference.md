@@ -32,6 +32,7 @@ tags:
 ### Causality inference
 * [ Causality inference(因果推断简介及论文介绍)](https://zhuanlan.zhihu.com/p/397796913)	
 * [Causal inference(因果推断英文书单整理及简介)](https://blog.csdn.net/s1164548515/article/details/109635808)
+* [Causal inference with Machinel and AI(使用机器学习和AI进行因果推断)](https://arxiv.org/pdf/2403.02467)
 * [Causal Inference & Machine Learning(Causal inference in 知乎)](https://www.zhihu.com/column/c_1425471894778286080)
 * [Causal Inference for the Brave and True(A book of introduction causal inference)](https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html)
 * [Causal inference in csdn](https://so.csdn.net/so/search?spm=1000.2115.3001.4498&amp;q=%E5%8A%A8%E6%80%81%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E7%BB%9C&amp;t=&amp;u=)
