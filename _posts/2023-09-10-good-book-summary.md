@@ -17,8 +17,7 @@ tags:
 <li>Probabilistic machine learning:<a href="https://drive.google.com/file/d/15sNg4cVLh9-nTl9zACnRkhfVtu5P5mgV/view?usp=drive_link">Probabilistic Machine Learning for Civil Engineers</a> Course Slid <a href="https://profs.polymtl.ca/jagoulet/Site/Goulet_web_page_BOOK.html"> (by James-A. Goulet)</a>Video<a href="https://www.youtube.com/watch?v=31zpK8uYs00&list=PLSng2CrfnjmoZMERizqkt3VU6y27QlTvD"></a> </li>
 <li>Probabilistic machine learning:<a href="https://drive.google.com/file/d/1uv2UMoEhgAorrv40Tw-cNF4sYeylWfpj/view?usp=sharing">Machine Learning: A Probabilistic Perspective(by Kevin P. Murphy)</a></li>
 <li>Basic Theory of machine learning:<a href="https://drive.google.com/file/d/1jn38qhhvNMHuUqHtGO622s40UjwCv7kd/view?usp=drive_link">Mathematics for machine learning</a></li>
-<li> Reinforcement Learning: <a href="https://chandar-lab.github.io/INF8250AE/"> Course in Poly of Montreal</a>,<a href="https://yanzhangcun.github.io/files/ebooks/Reinforcement%20Learning.pdf"> Study book</a>,<a href="https://www.cnblogs.com/skykill/p/6786629.html">Chinese tutorial</a></li
-<li> Reinforcement Learning: <a href="https://zhuanlan.zhihu.com/p/28084942"> Markov processor(in chinese) </a>,<a href="https://www.bilibili.com/video/BV1sd4y167NS/?spm_id_from=333.337.search-card.all.click&vd_source=eadde1477a58ba202d5070a8f223d4d4">强化学习的数学原理</a>,<a href="https://rl.qiwihui.com/zh-cn/latest/">,强化学习导论</a></li>
+
 <li> Decision Theory: Sequential Decisions <a href="https://www.cs.ubc.ca/~kevinlb/teaching/cs322%20-%202005-6/Lectures/lect32.pdf#:~:text=A%20sequential%20decision%20problem%20consists%20of%20a%20sequence,known%20at%20the%20time%20decision%20Di%20is%20made.">tutorial</a></li>
 <li> Probabilistic Machine Learning: An Introduction<a href="https://probml.github.io/pml-book/book1.html"> Kevin Patrick Murphy.</a> </li>
 <li>Implementation of machine learning:<a href="https://zhuanlan.zhihu.com/p/525106459">Diffusion Model(知乎)</a> 
@@ -42,6 +41,13 @@ tags:
 <li>Understanding LSTM Networks<a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/"></a></li>
 <li><a href="http://www.fields.utoronto.ca/activities/20-21/dynamical">Second Symposium on Machine Learning and Dynamical Systems</a></li>
 <li><a href="https://www.deeplearningbook.org/">Deep Learning</a></li>
+
+#### Reinforcement Learning
+<li> Reinforcement Learning: <a href="https://zhuanlan.zhihu.com/p/28084942"> Markov processor(in chinese) </a>,<a href="https://www.bilibili.com/video/BV1sd4y167NS/?spm_id_from=333.337.search-card.all.click&vd_source=eadde1477a58ba202d5070a8f223d4d4">强化学习的数学原理</a>,<a href="https://rl.qiwihui.com/zh-cn/latest/">,强化学习导论</a></li>
+[Course in Poly of Montreal](https://chandar-lab.github.io/INF8250AE/)
+[Reinforcement-ebook](https://yanzhangcun.github.io/files/ebooks/Reinforcement%20Learning.pdf)
+[Chinese tutorial](https://www.cnblogs.com/skykill/p/6786629.html)
+
 
 
 #### Bayesian Theory 
