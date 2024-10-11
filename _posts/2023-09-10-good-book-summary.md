@@ -47,8 +47,7 @@ tags:
 [Course in Poly of Montreal](https://chandar-lab.github.io/INF8250AE/)
 [Reinforcement-ebook](https://yanzhangcun.github.io/files/ebooks/Reinforcement%20Learning.pdf)
 [Chinese tutorial](https://www.cnblogs.com/skykill/p/6786629.html)
-
-
+[Causal Reinforcement learning](https://crl.causalai.net/crl-icml20.pdf)
 
 #### Bayesian Theory 
 <li><a href="https://yxnchen.github.io/research/%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD%E7%AC%94%E8%AE%B0/#%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD"</a>贝叶斯变分推断<li>    
