@@ -50,7 +50,7 @@ tags:
 <li><a href="https://yanzhangcun.github.io/files/ebooks/Reinforcement%20Learning.pdf">Reinforcement-ebook</a></li>
 <li><a href="https://www.cnblogs.com/skykill/p/6786629.html">Chinese tutorial</a></li>
 <li><a href="https://crl.causalai.net/crl-icml20.pdf">Causal Reinforcement learning</a><li>
-
+    
 #### Bayesian Theory 
 <li><a href="https://yxnchen.github.io/research/%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD%E7%AC%94%E8%AE%B0/#%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD"</a>贝叶斯变分推断<li>    
 
