@@ -43,11 +43,13 @@ tags:
 <li><a href="https://www.deeplearningbook.org/">Deep Learning</a></li>
 
 #### Reinforcement Learning
-<li> Reinforcement Learning: <a href="https://zhuanlan.zhihu.com/p/28084942"> Markov processor(in chinese) </a>,<a href="https://www.bilibili.com/video/BV1sd4y167NS/?spm_id_from=333.337.search-card.all.click&vd_source=eadde1477a58ba202d5070a8f223d4d4">强化学习的数学原理</a>,<a href="https://rl.qiwihui.com/zh-cn/latest/">,强化学习导论</a></li>
-[Course in Poly of Montreal](https://chandar-lab.github.io/INF8250AE/)
-[Reinforcement-ebook](https://yanzhangcun.github.io/files/ebooks/Reinforcement%20Learning.pdf)
-[Chinese tutorial](https://www.cnblogs.com/skykill/p/6786629.html)
-<li>Causal Reinforcement learning: <a href="https://crl.causalai.net/crl-icml20.pdf"></a><li>
+<li><a href="https://zhuanlan.zhihu.com/p/28084942">Reinforcement Learning</a></li>
+<li><a href="https://www.bilibili.com/video/BV1sd4y167NS/?spm_id_from=333.337.search-card.all.click&vd_source=eadde1477a58ba202d5070a8f223d4d4">强化学习的数学原理</a></li>
+<li><a href="https://rl.qiwihui.com/zh-cn/latest/">,强化学习导论</a></li>
+<li><a href="https://chandar-lab.github.io/INF8250AE/)Reinforcement-ebook">Course in Poly of Montreal</a></li>
+<li><a href="https://yanzhangcun.github.io/files/ebooks/Reinforcement%20Learning.pdf">Reinforcement-ebook</a></li>
+<li><a href="https://www.cnblogs.com/skykill/p/6786629.html">Chinese tutorial</a></li>
+<li><a href="https://crl.causalai.net/crl-icml20.pdf">Causal Reinforcement learning</a><li>
 
 #### Bayesian Theory 
 <li><a href="https://yxnchen.github.io/research/%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD%E7%AC%94%E8%AE%B0/#%E5%8F%98%E5%88%86%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD"</a>贝叶斯变分推断<li>    
