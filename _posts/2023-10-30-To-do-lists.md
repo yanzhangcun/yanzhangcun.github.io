@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Some other formation
-subtitle:   吾日三省吾身
+title:      Notebooks some lab
+subtitle:   other lab
 date:       2023-10-08
 author:     Zhangcun Yan
 header-img: img/sunset2.png
@@ -10,11 +10,6 @@ tags:
     - plan of day
 ---
 
-
-##### 
-
-0.**The time of my days**
-* [To do list](https://tweek.so/fr)
 
 1. **From other's panel**
 * [基金课题的申请路径](https://junweiliang.me/awesome.html)
