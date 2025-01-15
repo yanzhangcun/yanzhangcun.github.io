@@ -96,5 +96,10 @@ tags:
 <li>Causality inference by time series<a href="https://www.belmontforum.org/wp-content/uploads/2018/04/Causal-Inference-and-Complex-Network-Methods-for-the-Geosciences.pdf"> PCMCI</a> <a href="https://phdinds-aim.github.io/time_series_handbook/Preface/Preface.html">Time series book</a> </li>
 <li>Causality ebook<a href="http://bayes.cs.ucla.edu/BOOK-2K/index.html">JUDEA PEARL - CAUSALITY </a></li>
 
+
+#### Python book
+<li>Python ebook<a href="https://yanzhangcun.github.io/files/ebooks/Python_coding_basic_Knoledge.pdf">Python basic ebook </a></li>
+
+
 <small>**注：**</small>
 
