@@ -89,6 +89,7 @@ tags:
 * [kalman-filter-with-matlab-code](https://studentdavestutorials.weebly.com/kalman-filter-with-matlab-code.html)
 * [Geometric and Topological Methods in Data Science](https://icerm.brown.edu/tripods/tri-21-gtmds/#workshopoverview)
 * [Learn by example: Active Inference in the brain -3](https://www.kaggle.com/code/charel/learn-by-example-active-inference-in-the-brain-3)
+* [Data science example](https://adilsaid64.github.io/?source=user_about----------------------bc57e1ee366e---------------)
   
 **Good book**
 * [《统计学习方法》硬核 Python 实现](https://zhuanlan.zhihu.com/p/339893440)
