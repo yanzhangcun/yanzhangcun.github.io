@@ -25,6 +25,10 @@ Although I have been studying mathematics for twenty years, I have never really 
 * [线性代数应该这样学](https://icourse.club/uploads/files/f3e9c960b93d8b8fbfdc1bda18a8d55088cbc8cb.pdf)
 * [Linear Algebra for Data Science](https://kyunghyuncho.me/linear-algebra-for-data-science/)
 
+### Calculus
+*[calculus at Mit](https://www.youtube.com/watch?v=UcWsDwg1XwM).
+
+
 ### Optimization Theory
 * [北京大学最优化理论与方法-文再文](http://faculty.bicmr.pku.edu.cn/~wenzw/opt-2024-fall.html)
 
