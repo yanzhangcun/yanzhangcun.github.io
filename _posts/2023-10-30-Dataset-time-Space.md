@@ -110,3 +110,6 @@ tags:
 * [Washington Geospatial Open Data Porta](https://www.wsdot.wa.gov/mapsdata/geodatacatalog/Maps/noscale/DOT_TDO/BikePed/BikePedIDX.htm)
 * [OpenStreetMap](https://www.openstreetmap.org/export#map=5/54.41/-2.35)
 * [Crash dataset](https://www.nhtsa.gov/)
+
+**Good projects**
+* [Cityfy](https://www.cityfi.co/abut24)
