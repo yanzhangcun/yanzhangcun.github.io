@@ -101,5 +101,8 @@ tags:
 <li>Python ebook<a href="https://yanzhangcun.github.io/files/ebooks/Python_coding_basic_Knoledge.pdf">Python basic ebook </a></li>
 
 
+#### Good book
+<li>Best book <a href="https://mixtape.scunning.com/"> Math book</a></li>
+
 <small>**注：**</small>
 
