@@ -92,8 +92,7 @@ tags:
 
 #### Causal discovery good project in github
 * [trustworthyAI](https://github.com/huawei-noah/trustworthyAI)
-* [Causal Inference](https://abakcus.com/30-best-math-books-to-learn-advanced-mathematics-for-self-learners/)
-
+* [Causal Inference The Mixtape](https://mixtape.scunning.com/)
 
 #### Good slide about causal inference
 * [CAUSAL INFERENCE AND CAUSAL DISCOVERY FOR STUDYING TELECONNECTION PATHWAYS](https://www.ecmwf.int/sites/default/files/medialibrary/2020-10/27_October.pdf)
