@@ -17,6 +17,7 @@ tags:
 * [Spatial Data Science](https://rspatial.org/raster/analysis/6-local_regression.html)
 
 **Some methods**
+* [Good method for Data Science](https://astromaier.medium.com/data-science-learning-resources-442906465684)
 * [Geographically Weighted Regression](https://crd230.github.io/gwr.html)
 * [Geographically Weighted Regression](https://rpubs.com/chrisbrunsdon/101305)
 * [地理加权回归工作原理](https://pro.arcgis.com/zh-cn/pro-app/latest/tool-reference/spatial-statistics/how-geographicallyweightedregression-works.htm)
