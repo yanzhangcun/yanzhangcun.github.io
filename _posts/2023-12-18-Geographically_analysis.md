@@ -33,3 +33,6 @@ tags:
 
 * [mgwr python](https://yanzhangcun.github.io/files/ebooks/Data_analysis/mgwr.pdf)
 
+#### 地理加权数据可视化
+* [Reverse Engineering Uber and Lyft Surge Pricing in Chicago](https://toddwschneider.com/)
+
