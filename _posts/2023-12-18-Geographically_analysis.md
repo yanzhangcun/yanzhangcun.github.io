@@ -35,4 +35,5 @@ tags:
 
 #### 地理加权数据可视化
 * [Reverse Engineering Uber and Lyft Surge Pricing in Chicago](https://toddwschneider.com/)
+* [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html)
 
