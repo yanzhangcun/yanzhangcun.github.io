@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Publication"
-description: "Study work"
+title: "Teaching"
+description: "Teaching work"
 header-img: "img/planet2.jpg"
 ---
 
@@ -21,20 +21,17 @@ header-img: "img/planet2.jpg"
 
     <p></p>
         
-<h3 id="toc_0">Journal Articles</h3>
+<h3 id="toc_0">Postgraduate Student</h3>
 
 <ul>
-<li>Driving Behavioral Modeling: Zhangcun Yan, Lishengsa Yue, Jian Sun.<a href="https://doi.org/10.1016/j.eswa.2023.120753"> High-resolution reconstruction of non-motorized trajectory in shared space: A new approach integrating the social force model and particle filtering</a>, Expert Systems with Applications, 2023: 120753. <a href="https://github.com/zhangcun-yan/SFPF_denoise"> Code.</a></li>
-<li>Traffic Engineering: Zhangcun Yan, Duo Zhang,Xiaozhao Lu,..,Jian Sun.<a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000718"> Saturation Flow Rate at the Work Zone–Straddled Intersections with Interweaving Movements: Lane-Based Modeling Study</a>. Journal of transportation engineering, Part A: Systems, 2022, 148(10): 04022088.</li>
+<li>Car fellow model(车辆跟驰模型).<a href="https://doi.org/10.1016/j.eswa.2023.120753"> 微观交通流模型</a>, 车辆跟驰模型. <a href="https://github.com/zhangcun-yan/SFPF_denoise"> Code.</a></li>
 </ul>
 
-<h3 id="toc_1">Conference Articles</h3>
+<h3 id="toc_1">Undergraduate Students</h3>
 
 <ul>
-<li>Driving Behavioral Modeling: Duo Zhang,Zhangcun Yan,...Jian Sun.<a href="https://ascelibrary.org/doi/abs/10.1061/9780784484265.119">Impacts of Driver Characteristics on Fuel Consumption Based on Naturalistic Driving Experiment</a>,CICTP 2022. 2022: 1263-1273.</li>
-<li>Traffic Safety Data Analysis: Zhangcun Yan,Xiaozhao Lu, Wanxin Hu.<a href="https://ascelibrary.org/doi/abs/10.1061/9780784482742.048">Analysis of factors affecting traffic accident severity based on heteroskedasticity ordinal Logit</a>,Sixth International Conference on Transportation Engineering. Reston, VA: American Society of Civil Engineers, 2019: 422-435.</li>
-<li>Taffic safety Analysis and Modeling: Zhangcun Yan, Lishengsa Yue, Nicolas Suanier,Jian Sun.<a href="https://mail.tongji.edu.cn/coremail/XT5/detach.jsp?sid=FAhrNJooWxGNkWVfZnuFARUrjhoOjeXo#mail.read?mid=4:1tbiBAABCGVaG84b0wAYs3&fid=1&mboxa=&start=13">Investigating and Modeling Motorized and Non-Motorized Interaction Behavior in Shared Spaces of Intersections</a> </li>
-</ul>
+<li>Driving Behavioral Modeling<a href="https://ascelibrary.org/doi/abs/10.1061/9780784484265.119">Impacts riment</a>,CICTP 2022. 2022: 1263-1273.</li>
+/ul>
 
 
 
