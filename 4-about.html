@@ -2,147 +2,134 @@
 layout: page
 title: "About"
 description: "Fascinating insight"
-<!-- header-img: "img/planet3.jpg" -->
+# header-img: "img/planet3.jpg"
 ---
 
-<!-- Language Selector -->
-<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
-</select> -->
+<div class="post-container about-page">
 
-<!--<Chinese Version>-->
+  <blockquote>
+    <p>Every big thing starts with something small.</p>
+    <p>A journey of a thousand miles begins with a single step; an ocean becomes vast through the gathering of streams.</p>
+  </blockquote>
 
-<!--<div class="zh post-container">-->
-<!--    <blockquote><p>Yet another iOS Developer. <br>-->
-<!--    Yet another Life-long Student.</p></blockquote>-->
-
-<!--    <p>Hi, I am <strong>zhangcun Yan</strong>，you can call me <strong>BY</strong>. I am an Phd candidate at tongji university and currently visting in Montreal</p>-->
-<!--    -->
-<!--    <p>This is my personal blog, through making Github Pages and Jekyll.My GitHub  👉 <a href="http://github.com/yanzhangcun">Github·BY</a>.</p>-->
-<!--    -->
-<!--    <p>I am a sports enthusiast, I like fitness, running and boxing.</p>-->
-<!--    -->
-<!--    <h5>Talks</h5>-->
-<!--    -->
-<!--    <ul>-->
-<!--    <li><a href="https://github.com">GitHub</a></li>-->
-<!--&lt;!&ndash;     <li><a href="http://jekyll.com.cn/">jekyll</a></li> &ndash;&gt;-->
-<!--    <li><a href="https://pages.github.com/">GitHub Pages</a></li>-->
-<!--    <li><a href="https://yanzhangcun.github.io">BY</a></li>-->
-<!--    </ul>-->
-<!--</div> &ndash;&gt;-->
-
-<English Version>
-<div class="en post-container">
-
-    <!--copied from markdown -->
-    <blockquote><p>Every big thing starts with something small.<br>
-    <p>A journey of one thousand miles can never be made without the accumulation of every single step;An ocean can never be vast without the contribution of every single stream and brook.</p></blockquote>
-    
-    <p>Zhangcun Yan</p>
-    
-    <p>I'm <a href="Https://yanzhangcun.github.io/files/ebooks/Yanzc.pdf"> <strong>Zhangcun Yan</a></strong>, a Ph.D candidate in Tongji University. My profession is transportation engineering, my research focus on the subfield of intelligent transportation systems which contains action safety control theory and application based on Mico-driving behavior and machine learning method. My belief is <strong>"Technology make better life"</strong> , I was trying to tackle the complex traffic safety problem with Machine leaning method.</p>
-    
-    <p>Recently，i'm studying at proffessor <strong><a href = "http://n.saunier.free.fr/saunier/">Nicolas's Groups</a> </strong> as a Visting student at Polytechnique of Montreal which affiliated to <strong>University of Montreal</strong>.</p>
-
-    <p> Recently, i'm focusing on the two research topic: <strong><a href = "https://15549144766.github.io/"> driving assisted Systems based on cenvironmental awareness </a></strong> and <strong><a href = "https://yanzhangcun.github.io/2023/12/18/Micro-driving-behavior-modeling-and-analyzing-based-on-the-High-resolution-traffic-video-in-the-Intersection/"> </a>interaction behavior modeling and anomal behavior detection</strong> .</p>
-
-    <p>To do list in every day!</p>
+  <section id="profile">
+    <h3>Profile</h3>
 
     <p>
-        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FToronto&mode=WEEK&title=Yanzc's%10time%10table&showTz=1&showCalendars=0&showTabs=1&showPrint=0&showDate=1&showNav=0&showTitle=1&src=enkyMjE0MThAZ21haWwuY29t&src=YjE1ODQzN2E5MGZkMjc3NDkzNWNjMWE2M2I4YTRjNDMzNGEzMDQxNTc1YjZiMGY0Zjg1OTE4YWIyZmM2MTIwZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23E4C441" style="border:solid 1px #777" width="680" height="560" frameborder="0" scrolling="no"></iframe>
-
+      I am <a href="{{ site.baseurl }}/files/ebooks/Yanzc.pdf" target="_blank" rel="noopener noreferrer"><strong>Zhangcun Yan</strong></a>,
+      a Ph.D. candidate at Tongji University in transportation engineering.
+      My research focuses on intelligent transportation systems, active safety control, micro-driving behavior analysis,
+      and machine-learning-based traffic safety applications.
     </p>
 
- </div>  
+    <p>
+      My belief is <strong>“Technology makes life better.”</strong>
+      I aim to address complex traffic safety problems using data-driven methods, high-resolution traffic video,
+      and machine learning.
+    </p>
+  </section>
 
+  <section id="visiting-experience">
+    <h3>Visiting Experience</h3>
 
-<!-- Handle Language Change -->
-<script type="text/javascript">
-    // get nodes
-    var $zh = document.querySelector(".zh");
-    var $en = document.querySelector(".en");
-    var $select = document.querySelector("select");
+    <p>
+      I was a visiting student in
+      <a href="http://n.saunier.free.fr/saunier/" target="_blank" rel="noopener noreferrer"><strong>Professor Nicolas Saunier’s group</strong></a>
+      at Polytechnique Montréal, affiliated with Université de Montréal.
+    </p>
+  </section>
 
-    // bind hashchange event
-    window.addEventListener('hashchange', _render);
-    
-    // handle render
-    function _render(){
-        var _hash = window.location.hash;
-        // en
-        if(_hash == "#en"){
-            $select.selectedIndex = 1;
-            $en.style.display = "block";
-            $zh.style.display = "none";
-        // zh by default
-        }else{
-            // not trigger onChange, otherwise cause a loop call.
-            $select.selectedIndex = 0;
-            $zh.style.display = "block";
-            $en.style.display = "none";
-        }
-    }
-    
-    // handle select change
-    function onLanChange(index){
-        if(index == 0){
-            window.location.hash = "#zh"
-        }else{
-            window.location.hash = "#en"
-        }
-    }
-    
-    // init
-    _render();
-</script>
+  <section id="research-interests">
+    <h3>Research Interests</h3>
 
+    <ul>
+      <li>
+        <a href="https://15549144766.github.io/" target="_blank" rel="noopener noreferrer">
+          Driver assistance systems based on environmental awareness
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/2023/12/18/Micro-driving-behavior-modeling-and-analyzing-based-on-the-High-resolution-traffic-video-in-the-Intersection/" target="_blank" rel="noopener noreferrer">
+          Interaction behavior modeling and anomaly behavior detection
+        </a>
+      </li>
+    </ul>
+  </section>
 
-<!-- Gitalk 评论 start
-{% if site.gitalk.enable %}
+  <section id="calendar">
+    <h3>Daily Schedule</h3>
+    <p>To-do list and weekly schedule.</p>
 
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-    <script type="text/javascript">
-    var gitalk = new Gitalk({
-    clientID: '{{site.gitalk.clientID}}',
-    clientSecret: '{{site.gitalk.clientSecret}}',
-    repo: '{{site.gitalk.repo}}',
-    owner: '{{site.gitalk.owner}}',
-    admin: ['{{site.gitalk.admin}}'],
-    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-    id: 'about',
-    });
-    gitalk.render('gitalk-container');
-</script>
-{% endif %}
-Gitalk end -->
-
- <!-- disqus 评论框 start  -->
- <!-- {% if site.disqus.enable %} 
-
-<div class="comment">
-    <div id="disqus_thread" class="disqus-thread">
+    <div class="calendar-wrapper">
+      <iframe
+        title="Zhangcun Yan weekly calendar"
+        src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;mode=WEEK&amp;title=Yanzc%27s%20time%20table&amp;showTz=1&amp;showCalendars=0&amp;showTabs=1&amp;showPrint=0&amp;showDate=1&amp;showNav=0&amp;showTitle=1&amp;src=enkyMjE0MThAZ21haWwuY29t&amp;src=YjE1ODQzN2E5MGZkMjc3NDkzNWNjMWE2M2I4YTRjNDMzNGEzMDQxNTc1YjZiMGY0Zjg1OTE4YWIyZmM2MTIwZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%23E4C441"
+        loading="lazy"
+        frameborder="0"
+        scrolling="no">
+      </iframe>
     </div>
+  </section>
+
 </div>
-<!-- disqus 评论框 end -->
 
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<style>
+  .about-page section {
+    margin-bottom: 2rem;
+  }
+
+  .about-page ul {
+    padding-left: 1.4rem;
+  }
+
+  .about-page li {
+    margin-bottom: 0.6rem;
+  }
+
+  .calendar-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 82%;
+    height: 0;
+    overflow: hidden;
+    border: 1px solid #777;
+    border-radius: 6px;
+  }
+
+  .calendar-wrapper iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+
+{% if site.disqus.enable %}
+<div class="comment">
+  <div id="disqus_thread" class="disqus-thread"></div>
+</div>
+
 <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "{{site.disqus.username}}";
-    var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
+  (function () {
+    var disqusShortname = "{{ site.disqus.username }}";
+    var disqusIdentifier = "{{ site.disqus.username }}/{{ page.url }}";
+    var disqusUrl = "{{ site.url }}{{ page.url }}";
 
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
+    window.disqus_config = function () {
+      this.page.url = disqusUrl;
+      this.page.identifier = disqusIdentifier;
+    };
+
+    var dsq = document.createElement("script");
+    dsq.type = "text/javascript";
+    dsq.async = true;
+    dsq.src = "https://" + disqusShortname + ".disqus.com/embed.js";
+    dsq.setAttribute("data-timestamp", +new Date());
+
+    (document.head || document.body).appendChild(dsq);
+  })();
 </script>
-<!-- disqus 公共JS代码 end -->
-<!-- &lt;!&ndash;{% endif %}-->
 
+<noscript>请启用 JavaScript 查看评论。</noscript>
+{% endif %}
