@@ -1,86 +1,71 @@
 ---
 title: Blog
 layout: default
-description: keep hungry keep foolish
-<!-- header-img: "img/university-3.jpg" -->
+description: "Keep hungry, keep foolish"
+# header-img: "img/university-3.jpg"
 ---
 
-<!-- Language Selector -->
-<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
-</select> -->
-
-<!-- Chinese Version -->
-<!--<div class="zh post-container">-->
-
-<!--    &lt;!&ndash;copied from markdown &ndash;&gt;-->
-<!--    <blockquote><p>日积月累，整理归纳<br>-->
-<!--	故不积跬步，无以至千里；不积小流，无以成江海。</p></blockquote>-->
-<!--    <p>这里是学习过程中遇到的一些好的书籍、教程、资料的整理（持续更新中，请常来看看）。</p> &ndash;&gt;-->
-<!--    <p></p>-->
-
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}'); background-size: cover}">    
-<div class="container">
+<header
+  class="intro-header"
+  style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}'); background-size: cover; background-position: center;"
+>
+  <div class="container">
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="site-heading" id="tag-heading">
-                <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-                    <span class="subheading">{{ page.description }}</span>
-                </div>
-            </div>
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="site-heading" id="tag-heading">
+          <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+          {% if page.description %}
+          <span class="subheading">{{ page.description }}</span>
+          {% endif %}
         </div>
+      </div>
     </div>
+  </div>
 </header>
 
-<!--Main Content-->
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <!-- 标签云 -->
-			<div id='tag_cloud' class="tags">
-				{% for tag in site.tags %}
-				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-				{% endfor %}
-			</div>
+<main class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-            <!--<blockquote class="tag-comments">
-                标签命名规范：
-                    <li>行业观察、职位、公司优先使用中文</li>
-                    <li>外国产品、术语优先使用英文</li>
-            </blockquote>-->
+      {% assign sorted_tags = site.tags | sort %}
 
-            <!-- 标签列表 -->
-			{% for tag in site.tags %}
-			<div class="one-tag-list">
-			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
-                    <span class="tag-text">{{ tag[0] }}</span>
-                </span>
-				{% for post in tag[1] %}
-				  <!-- <li class="listing-item">
-				  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-				  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-				  </li> -->
-				 <div class="post-preview">
-				    <a href="{{ post.url | prepend: site.baseurl }}">
-				        <h2 class="post-title">
-                            {{ post.title }}
-				        </h2>
-				        {% if post.subtitle %}
-				        <h3 class="post-subtitle">
-				            {{ post.subtitle }}
-				        </h3>
-				        {% endif %}
-				    </a>
-				    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-				</div>
-				<hr>
-				{% endfor %}
-			</div>
-			{% endfor %}
+      {% if sorted_tags.size > 0 %}
+      <nav id="tag_cloud" class="tags" aria-label="Blog tags">
+        {% for tag in sorted_tags %}
+        {% assign tag_name = tag[0] %}
+        {% assign tag_id = tag_name | slugify %}
+        <a href="#{{ tag_id }}" title="{{ tag_name }}" rel="{{ tag[1].size }}">{{ tag_name }}</a>
+        {% endfor %}
+      </nav>
 
-		</div>
-	</div>
-</div>
+      {% for tag in sorted_tags %}
+      {% assign tag_name = tag[0] %}
+      {% assign tag_id = tag_name | slugify %}
 
-</div>
+      <section class="one-tag-list" aria-labelledby="{{ tag_id }}">
+        <h2 class="fa fa-tag listing-seperator" id="{{ tag_id }}">
+          <span class="tag-text">{{ tag_name }}</span>
+        </h2>
+
+        {% for post in tag[1] %}
+        <article class="post-preview">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <h3 class="post-title">{{ post.title }}</h3>
+            {% if post.subtitle %}
+            <p class="post-subtitle">{{ post.subtitle }}</p>
+            {% endif %}
+          </a>
+          <p class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
+        </article>
+        <hr>
+        {% endfor %}
+      </section>
+      {% endfor %}
+
+      {% else %}
+      <p>暂无博客文章。</p>
+      {% endif %}
+
+    </div>
+  </div>
+</main>
