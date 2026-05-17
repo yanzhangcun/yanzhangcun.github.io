@@ -1,86 +1,115 @@
-title: Zhangcun Yan
-SEOTitle: Zhangcun Yan - Homepage
-header-img: img/university-0.jpg 
-email: zy221418@gmail.com
-description: "Ph.D. student at Tongji University. Research interests: [你的研究领域]."
-keyword: "Zhangcun Yan, Research, Academic, [关键词1], [关键词2]"
+# Site settings
+title: "Zhangcun Yan"
+SEOTitle: "Zhangcun Yan - Homepage"
+description: "Ph.D. candidate at Tongji University. Research interests include intelligent transportation systems, active traffic safety, micro-driving behavior analysis, and machine-learning-based traffic safety applications."
+keyword: "Zhangcun Yan, Yan Zhangcun, Tongji University, Transportation Engineering, Intelligent Transportation Systems, Traffic Safety, Micro-driving Behavior, Machine Learning"
+author: "Zhangcun Yan"
+email: "zy221418@gmail.com"
+lang: "en"
+timezone: "Asia/Shanghai"
 
+# Header image
+header-img: "img/university-0.jpg"
 
-url: "https://yanzhangcun.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/yanzhangcun/yanzhangcun.github.io.git" # you code repository
+# URL settings
+url: "https://yanzhangcun.github.io"
+baseurl: ""
+github_repo: "https://github.com/yanzhangcun/yanzhangcun.github.io.git"
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "Ph.D. Student <br> Tongji University" # 使用 <br> 换行更整洁
-sidebar-avatar: /img/yanzc.jpg
+sidebar-about-description: "Ph.D. Candidate<br>Tongji University"
+sidebar-avatar: "/img/yanzc.jpg"
 
-# SNS settings
+# Social links
 RSS: false
-# 建议补充
-zhihu_username: 南麓小徒
-scholar_username: "https://scholar.google.com/citations?user=HLqAFl0AAAAJ&hl=en"
-linkedin_username: "https://www.linkedin.com/in/zhangcun-yan-7aa842250/"
+zhihu_username: "南麓小徒"
+google_scholar_url: "https://scholar.google.com/citations?user=HLqAFl0AAAAJ&hl=en"
+linkedin_url: "https://www.linkedin.com/in/zhangcun-yan-7aa842250/"
+github_username: "yanzhangcun"
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-
-
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
-
-
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
+paginate_path: "page:num"
 markdown: kramdown
 highlighter: rouge
+
+# GitHub Pages uses plugins instead of the old gems key
+plugins:
+  - jekyll-paginate
+
+exclude:
+  - "less"
+  - "node_modules"
+  - "Gruntfile.js"
+  - "package.json"
+  - "package-lock.json"
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+
+# Markdown settings
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
 
+# Anchor settings
+anchorjs: true
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# Comments
+# Disqus: uncomment and configure if needed.
+# disqus:
+#   enable: true
+#   username: "your-disqus-shortname"
 
 # Gitalk
+# For a public GitHub Pages repository, avoid committing OAuth secrets directly.
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
-  clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  enable: false
+  clientID: ""
+  clientSecret: ""
+  repo: "yanzhangcun.github.io"
+  owner: "yanzhangcun"
+  admin:
+    - "yanzhangcun"
+  distractionFreeMode: true
 
-# 统计
-
-# Analytics settings
+# Analytics
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: ""
 
 # Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: ""
+# ga_domain: "auto"
 
-# Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
-
+# Featured tags
+featured-tags: true
+featured-condition-size: 1
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-Academic_Links: [
-    { title: "Nicolas Saunier", href: "http://n.saunier.free.fr/saunier/" },
-    { title: "Xinyu Chen", href: "https://xinychen.github.io/index.html" },
-    { title: "Wang Luo", href: "https://wangluoangl3.github.io/" }
-]
+# Academic links
+Academic_Links:
+  - title: "Nicolas Saunier"
+    href: "http://n.saunier.free.fr/saunier/"
+  - title: "Xinyu Chen"
+    href: "https://xinychen.github.io/index.html"
+  - title: "Wang Luo"
+    href: "https://wangluoangl3.github.io/"
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Talks"
+    url: "/talks/"
