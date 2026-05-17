@@ -7,6 +7,10 @@ description: "Teacher work"
 
 <div class="post-container teaching-page">
 
+  <div class="teaching-header-image">
+    <img src="{{ '/img/planet2.jpg' | relative_url }}" alt="Teaching">
+  </div>
+
   <blockquote>
     <p>日积月累，整理归纳<br>勤学善思，教学相长。</p>
   </blockquote>
@@ -17,7 +21,7 @@ description: "Teacher work"
     <ul>
       <li>
         车辆跟驰模型梳理（刘芸江整理）：
-        <a href="{{ site.baseurl }}/files/Carfellowmodel.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="{{ '/files/Carfellowmodel.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
           PDF
         </a>
       </li>
@@ -26,18 +30,35 @@ description: "Teacher work"
 
   <section id="undergraduate-guidance">
     <h3>本科生指导</h3>
-
     <p>相关资料持续整理中。</p>
   </section>
 
   <hr>
 
-  <div class="teaching-note" style="color:#a0a9a9; font-size: 0.9em;">
+  <div class="teaching-note">
     <p><strong>特别说明：</strong></p>
     <p>本页面主要用于课程教学、学生指导和学习资料整理，相关内容将持续更新。</p>
   </div>
 
 </div>
+
+<style>
+  .teaching-header-image {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .teaching-header-image img {
+    width: 3cm;
+    height: auto;
+    display: inline-block;
+  }
+
+  .teaching-note {
+    color: #a0a9a9;
+    font-size: 0.9em;
+  }
+</style>
 
 {% if site.disqus.enable %}
 <div class="comment">
