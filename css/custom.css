@@ -1,0 +1,133 @@
+.post-container section {
+  margin-bottom: 2.5rem;
+}
+
+.post-container h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.post-container ul,
+.post-container ol {
+  padding-left: 1.4rem;
+}
+
+.post-container li {
+  margin-bottom: 0.75rem;
+}
+
+.page-note {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e7eb;
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 2.5rem;
+}
+
+.tag-cloud a {
+  padding: 0.35rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  color: #374151;
+  text-decoration: none;
+}
+
+.tag-cloud a:hover {
+  border-color: #168aad;
+  color: #168aad;
+}
+
+.tag-count {
+  margin-left: 0.25rem;
+  color: #9ca3af;
+  font-size: 0.85em;
+}
+
+.tag-section {
+  scroll-margin-top: 80px;
+}
+
+.tag-heading {
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.post-preview {
+  padding: 1rem 0;
+  border-bottom: 1px solid #eef0f2;
+}
+
+.post-preview h3 {
+  margin: 0 0 0.4rem;
+}
+
+.post-preview time,
+.talk-list time {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.resource-list span {
+  display: block;
+  margin-top: 0.15rem;
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.talk-list li {
+  margin-bottom: 2rem;
+}
+
+.talk-list h3 {
+  margin: 0.4rem 0;
+}
+
+.contact-list {
+  list-style: none;
+  padding-left: 0 !important;
+}
+
+.button-link {
+  display: inline-block;
+  padding: 0.55rem 1rem;
+  border-radius: 4px;
+  background: #168aad;
+  color: #fff;
+  text-decoration: none;
+}
+
+.button-link:hover {
+  background: #126f8d;
+  color: #fff;
+  text-decoration: none;
+}
+
+.page-not-found {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .post-container h2 {
+    font-size: 1.5rem;
+  }
+
+  .tag-cloud {
+    gap: 0.4rem;
+  }
+
+  .page-not-found {
+    min-height: 80vh;
+  }
+}

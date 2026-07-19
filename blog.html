@@ -1,0 +1,60 @@
+---
+layout: page
+title: "Blog"
+description: "Research notes and academic resources"
+header-img: "img/university-3.jpg"
+permalink: /blog/
+---
+
+<div class="post-container">
+
+  {% assign sorted_tags = site.tags | sort %}
+
+  {% if sorted_tags.size > 0 %}
+
+    <nav class="tag-cloud" aria-label="Blog tags">
+      {% for tag in sorted_tags %}
+        {% assign tag_name = tag[0] %}
+        {% assign tag_id = tag_name | slugify %}
+        <a href="#{{ tag_id }}">
+          {{ tag_name }}
+          <span class="tag-count">{{ tag[1].size }}</span>
+        </a>
+      {% endfor %}
+    </nav>
+
+    {% for tag in sorted_tags %}
+      {% assign tag_name = tag[0] %}
+      {% assign tag_id = tag_name | slugify %}
+
+      <section class="tag-section" aria-labelledby="{{ tag_id }}">
+        <h2 id="{{ tag_id }}" class="tag-heading">
+          <i class="fa fa-tag" aria-hidden="true"></i>
+          {{ tag_name }}
+        </h2>
+
+        {% for post in tag[1] %}
+          <article class="post-preview">
+            <h3>
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+
+            {% if post.subtitle %}
+              <p class="post-subtitle">{{ post.subtitle }}</p>
+            {% endif %}
+
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%Y-%m-%d" }}
+            </time>
+          </article>
+        {% endfor %}
+      </section>
+    {% endfor %}
+
+  {% else %}
+    <p>暂无博客文章。</p>
+  {% endif %}
+
+</div>
